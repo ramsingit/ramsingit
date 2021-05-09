@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Ramachandran (@ramsingit), Android application developer
+- 👋 Hi, I’m Ramachandran (@ramsingit), Mobile application developer
 - 👀 I’m interested in mobile application development
 - 🌱 I’m currently learning react native
 - 💞️ I’m looking to collaborate on android and react native projects
